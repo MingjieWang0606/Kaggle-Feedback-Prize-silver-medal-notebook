@@ -1,1 +1,1 @@
-# Kaggle-Feedback-Prize-silver-model-notebook
+# Kaggle-Feedback-Prize-silver-medal-notebook
